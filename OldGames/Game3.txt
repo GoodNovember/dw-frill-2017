@@ -1,0 +1,106 @@
+January 13, 2017
+
+FRILL 1' 6" 10lbs
+
+GNOMISH - DRUID - NEUTRAL (ELIMINATE UNNATRURAL MENACE)
+
+yiivi ff9()
+
+RACIAL BONUS: TURN INTO BEE SWARM
+TELL: GREEN MOSSY BEARD
+
+1 - 3
+
+STR 6 		[-1]
+DEX 11 		[0]
+CON 12		[0]
+INT 15 		[+1]
+WIS 18 		[+3] -1
+CHA 4 		[-2]
+
+STUDIED ESSENCE
+	When you spend time in contemplation of an animal spirit, you may add its species 
+	to those you can assume using shapeshifting.
+
+SPIRIT TONGUE
+	The grunts, barks, chirps, and calls of the creatures of the wild are as language to you. 
+	You can understand any animal native to your land or akin to one whose essence you have studied.
+
+BONDS:
+	none
+
+AVAILABLE WEIGHT (6+STR): 9
+CURRENT EQUIPMENT WEIGHT: 5
+WEIGHT LEFT: 5
+
+GEAR:
+	- 55 coin
+	- TARNISHED BRASS COMPASS (BROKEN) 1W
+	- HIDE ARMOR 1W
+	- STAFF (close) (two handed) 1W (given to maxwell)
+	- ADVENTURER GEAR 1W
+	- BAG OF BOOKS 1W (removed from adventure at library.)
+
+HP 6+CON (DEFAULT: 18): 8
+DAMAGE: 	1D6 
+ARMOR:		1
+
+XP: XXXXXXXX
+	---------
+
+MOVES:
+
+BORN OF THE SOIL:
+	LOCATION: THE STINKING MIRE
+	TELL: GREEN MOSSY BEARD
+
+BY NATURE SUSTAINED:
+	NO NEED FOR FOOD OR DRINK
+
+SPIRIT TONGUE:
+	TALK TO THE ANIMALS OF THE SWAMP + BEES;
+
+SHAPESHIFTER
+	[ROLL] + WIS (3);
+		10+		HOLD 3
+		7-9		HOLD 2
+		MISS	HOLD 1 (+ WHATEVER GM SAYS)
+
+	TURN INTO ANY SPECIES I STUDIED OR FROM THE SWAMP.
+	GM WILL TELL ME OF A POTENTIAL MOVES
+		SPEND 1 HOLD TO DO THAT MOVE.
+
+	ONCE OUT OF HOLDS, TURN BACK INTO GNOME.
+
+	aligator
+		tail thriash
+		chomp
+		charge
+	gecko
+		sweet talk
+	snake
+		bind
+		strike
+
+
+POTENTIAL ANIMAL MOVES
+	PACK HUNTERS
+		SUMMON THE PACK
+		DRAG TO THE GROUND
+	FLYING CREATURES
+		ESCAPE TO THE AIR
+		PULL AN ENEMY ALOFT
+	HARDY BEASTS
+		TRAMPLE THEM
+		BREAK THROUGH
+	POISONUS
+		INFLICT POISON ON THEM
+		DRIVE THEM BACK (INTIMIDATE)
+
+THING TALKER
+	You see the spirits in the sand, the sea and the stone. 
+	You may now apply your spirit tongue, shapeshifting and 
+	studied essence to inanimate natural objects (plants and rocks) 
+	or creatures made thereof, as well as animals. 
+	Thing-talker forms can be exact copies or can be mobile vaguely 
+	humanoid-shaped entities.
